@@ -1,0 +1,86 @@
+body{
+	font-family: "Lato";
+
+}
+
+.container-fluid{
+	overflow:hidden;
+	font-size: 15px;
+	padding-left: 2%;
+	padding-top: 10%;
+	margin-bottom: 0%;
+    color: #fff;
+}
+
+.animate__animated.animate__animate__fadeInUp{
+  display: inline-block;
+  margin: 0 0.5rem;
+
+  animation: fadeInUp; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2.5s; /* don't forget to set a duration! */
+}
+.animate__animated.animate__animate__fadeInLeft{
+  display: inline-block;
+  margin: 0 0.5rem;
+
+  animation: fadeInLeft; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2.5s; /* don't forget to set a duration! */
+}
+
+.container-welcome{
+     background-color:#fff;
+      padding: 7% 15%; 	
+      margin-top: 0%;
+      color:#61b15a;
+}
+.fa.fa-check{
+	color: #61b15a; 
+}
+.container-2{
+	background-color:#61b15a;
+	 padding: 7% 15%; 	
+     color:  #e7e6e1;
+     font-size: 15px;
+     margin-bottom: 0%;
+     margin-top: 0%;
+}
+.container-3{
+	padding: 7% 15%;
+	background-color:#c8c6a7; 
+	color: #fff; 	
+	height: 50%;
+	font-size: 14px;
+
+}
+.fas.fa-user-circle{
+	color:#e7e6e1;
+}
+
+.h2{
+color:  #04d62f;
+text-align: center;
+ }
+
+.card{
+	text-align: center;
+    background-color:#fff;
+    width: 320px;
+     height: 340px;
+
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+  text-align: center;
+      padding: 10% 15%;
+      margin-top: 50px;
+      margin-bottom: 50px;
+    
+}
+.col-img{
+      overflow:hidden;
+      padding-left: 15%;
+	padding-top: 30%;
+     
+}
+.h1{
+color:  #04d62f;
+text-align: center;
+ }
